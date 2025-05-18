@@ -3,6 +3,7 @@ import React from 'react'
 import Navigation from '../../components/Navigation'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
+import { Analytics } from "@vercel/analytics/next"
 
 const posts = [
   {
@@ -167,6 +168,7 @@ export default function Blog() {
           ))}
         </div>
       </div>
+      <Analytics />
     </main>
   )
-} 
+}
