@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/nodemailer": "^6.4.17",
     "@vercel/analytics": "^1.5.0",
-    "framer-motion": "^11.0.0",
+    "framer-motion": "^12.12.1",
     "next": "14.1.0",
     "next-themes": "^0.2.1",
     "nodemailer": "^7.0.3",
@@ -25,7 +25,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
     "@types/node": "^20.0.0",
-    "@types/react": "^18.2.0",
+    "@types/react": "^19.1.4",
     "@types/react-dom": "^18.2.0",
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
