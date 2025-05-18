@@ -67,7 +67,7 @@ const projects = [
     imageUrl: "/images/projects/bookwarm/bookwarm 6.jpg",
     tags: ["Web3.js", "Ethereum", "Smart Contracts", "React", "MetaMask", "Blockchain", "Hardhat", "Solidity", "UI/UX Design", "Genre Classification"],
     category: "blockchain",
-    link: "https://github.com/Harshpandey9984/Bookwarm"
+    link: "https://github.com/Harshpandey9984/Bookwarm1"
   }
 ];
 
